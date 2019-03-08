@@ -32,3 +32,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 >tyarn add fastclick -S
 >tyarn add normalize.css -S
 >tyarn add postcss-import postcss-url postcss-aspect-ratio-mini postcss-px-to-viewport postcss-write-svg postcss-cssnext postcss-viewport-units cssnano cssnano-preset-advanced -D   //适配
+
+>tyarn add better-scroll -S
