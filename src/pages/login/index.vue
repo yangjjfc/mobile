@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="section">
 <van-cell-group>
   <van-field
     v-model="user.name"
@@ -46,4 +46,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.section{
+    height:200px;
+}
 </style>
