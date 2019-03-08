@@ -1,0 +1,39 @@
+
+.clearfix {
+    zoom: 1;
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.text-success {
+    color: $text-success-color;
+}
+
+.text-danger {
+    color: $text-danger-color;
+}
+
+.text-info {
+    color: $theam;
+}
+
+.text-gray {
+    color: $text-gray-color;
+}

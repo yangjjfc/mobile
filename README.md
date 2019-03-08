@@ -27,3 +27,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+>tyarn add axios lodash -S
+>tyarn add fastclick -S
+>tyarn add normalize.css -S
